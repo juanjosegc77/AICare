@@ -34,4 +34,7 @@ Los datos en serie de tiempo deben ser guardados en archivos de texto plano, un 
   
   ![08](https://user-images.githubusercontent.com/58958653/71495467-8f300500-2813-11ea-9fc0-d7270cf216bd.png) ![09](https://user-images.githubusercontent.com/58958653/71495469-91925f00-2813-11ea-9c41-ae9ca3544a2a.png) ![10](https://user-images.githubusercontent.com/58958653/71495470-935c2280-2813-11ea-8256-e0049fd73ae3.png)
   
+
+Nota: para los valores aquí proporcionados, es conveniente utilizar la configuración de las señales de acuerdo al archivo "database_values.html", la cual se realiza desde la opción "Señales" del menú principal.
+  
   
